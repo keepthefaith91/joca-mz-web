@@ -1,0 +1,84 @@
+Skill 1 Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 Dual Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 Double Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 Triple Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 Rad Backlip: Damage Formula: a.atk
+Skill 9 Glass Breaker: Damage Formula: a.atk * 4 - b.def * 2
+Skill 10 Shock: Damage Formula: a.atk
+Skill 11 Toe Stubber: Damage Formula: a.atk * 4 - b.def * 2
+Skill 12 Punch: Damage Formula: a.atk * 4 - b.def * 2
+Skill 13 Kick: Damage Formula: a.atk * 4 - b.def * 2
+Skill 16 Slash: Damage Formula: a.atk * 4 - b.def * 2
+Skill 17 Triple Shot: Damage Formula: a.atk * 4 - b.def * 2
+Skill 21 Bodyslam: Damage Formula: a.atk * 4 - b.def * 2
+Skill 23 VAmpire: Damage Formula: a.atk * 2 - b.def
+Skill 25 Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 26 Eat food: Damage Formula: 250 + a.mat
+Skill 27 Heal II: Damage Formula: 1000 + a.mat * 2
+Skill 28 Kisses: Damage Formula: 4000 + a.mat * 4
+Skill 29 Recovery: Damage Formula: 250 + a.mat
+Skill 30 Recovery II: Damage Formula: 1000 + a.mat * 2
+Skill 33 Slam: Damage Formula: a.atk * 4 - b.def * 2
+Skill 34 run: Damage Formula: b.mhp / 2
+Skill 43 Wallpo Nalpo: Damage Formula: 200 + a.atk * 3.6
+Skill 44 RUNOVER: Damage Formula: 0 + a.atk * 40
+Skill 45 ODD ASS BRUH: Damage Formula: a.atk * 4 - b.def * 2
+Skill 49 Life Drain: Damage Formula: 200 + a.mat * 4 - b.mdf * 2
+Skill 51 Fire: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 52 Fire II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 53 Flame: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 54 Flame II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 55 ROUNDHOUSE: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 56 Ice II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 58 Beatdown: Damage Formula: 50 + a.atk * 2
+Skill 59 THUNDA MIFFLIN: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 60 Thunder II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 61 Spark: Damage Formula: 200 + a.atk * 8 + a.mat * 4
+Skill 62 Spark II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 63 laser: Damage Formula: 88 + a.atk * 3.52 + a.mat * 1.76
+Skill 64 Wave: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 65 Stone: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 66 Quake: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 67 Wind: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 68 Tornado: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 69 Saint: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 70 Starlight: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 71 Shade: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 72 Darkness: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 73 Burst: Damage Formula: 300 + a.mat * 2
+Skill 74 Nuclear: Damage Formula: 300 + a.mat * 2
+Skill 80 Strong Attack: Damage Formula: a.atk * 5 - b.def * 2
+Skill 81 Cleave: Damage Formula: a.atk * 2 - b.def * 2
+Skill 83 Berserker's Dance: Damage Formula: a.atk * 5 - b.def * 2
+Skill 84 Giant's Rampage: Damage Formula: a.atk * 12 - b.def * 6
+Skill 85 Tackle: Damage Formula: a.atk * 4 + a.def * 2 - b.def * 2
+Skill 88 No Shadow Kick: Damage Formula: a.atk * 5
+Skill 89 Claw Dance: Damage Formula: a.atk * 12
+Skill 94 Zero Storm: Damage Formula: a.atk * 5 - b.def * 2
+Skill 95 Aura Blade: Damage Formula: a.atk * 4 + a.mat * 3 - b.def - b.mdf
+Skill 99 Radiant Blade: Damage Formula: a.atk * 5 + a.mat * 5 - b.def - b.mdf
+Skill 100 Yoroidoshi: Damage Formula: a.atk * 4
+Skill 103 Tsubamekaeshi: Damage Formula: a.atk * 3 - b.def * 2
+Skill 104 Ouka Mugen jin: Damage Formula: a.atk * 4 - b.def * 2
+Skill 105 Weapon Break: Damage Formula: a.atk * 4 - b.def * 2
+Skill 106 Armour Break: Damage Formula: a.atk * 4 - b.def * 2
+Skill 108 Triple Shot: Damage Formula: 999 + a.atk * 40
+Skill 109 Thousand Arrows: Damage Formula: a.atk * 3 + a.agi * 2 - b.def * 2
+Skill 113 Assassin's Edge: Damage Formula: a.atk * 3 + a.luk * 4 - b.def * 2
+Skill 114 Valiant Edge: Damage Formula: a.atk * 2 + a.luk * 4 - b.def * 2
+Skill 117 God's Will: Damage Formula: a.mat * 5 - b.mdf
+Skill 122 Magic Torrent: Damage Formula: b.mmp * 0.5
+Skill 127 STAR ATTACK!!!: Damage Formula: 0 + a.atk * 35.52 - b.def * 17.76
+Skill 129 Kill Matane: Damage Formula: 999 + a.atk * 40
+Skill 132 gun: Damage Formula: 80 + a.atk * 3.2 - b.def * 1.6
+Skill 133 Nut Buster: Damage Formula: 8 + a.atk * 0.32
+Skill 134 Eat food: Damage Formula: 99 + a.atk * 39.96 - b.def * 19.98
+Skill 135 gun 2: Damage Formula: 100 + a.atk * 3.2 - b.def * 1.6
+Skill 136 NO!!: Damage Formula: a.mat * 5 - b.mdf
+Skill 137 NO!!: Damage Formula: 999 + a.atk * 39.96 + a.mat * 20
+Skill 138 Nightmare: Damage Formula: 999 + a.atk * 40 + a.mat * 19.98 - b.def * 20 - b.mdf * 19.98
+Skill 143 Awesome Sauce 1: Damage Formula: 20 + a.atk * 0.8 + a.mat * 0.4 - b.def * 0.4 - b.mdf * 0.4
+Skill 144 Awesome Sauce 2: Damage Formula: 100 + a.atk * 4 + a.mat * 0.4 - b.def * 2 - b.mdf * 0.4
+Skill 147 rock: Damage Formula: 0 + a.atk * 35.52 - b.def * 17.76
+Item 18 Pack of Bombs: Damage Formula: 300 + a.atk * 20
+Item 37 GLASS : Damage Formula: 500 + a.atk * 20 + a.mat * 10
