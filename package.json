@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "JOCA",
-        "width": 650,
-        "height": 416,
+        "width": 975,
+        "height": 624,
         "position": "center",
         "icon": "icon/icon.png"
     }

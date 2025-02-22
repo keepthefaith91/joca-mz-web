@@ -3,5 +3,6 @@
 var $plugins =
 [
 {"name":"Fomar0153_TileSize","status":true,"description":"Allows you to use tiles of a different size in game.","parameters":{"Tile Size":"32","Key String":"!"}},
-{"name":"yanflycoreengine","status":false,"description":"","parameters":{}}
+{"name":"yanflycoreengine","status":false,"description":"","parameters":{}},
+{"name":"Zoom","status":true,"description":"v0.6.0 Map zoom","parameters":{"Default zoom for maps":"1.50","Always free camera":"false","Fix sprite black lines":"true","Fix map encounter zoom":"true"}}
 ];
