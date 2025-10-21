@@ -168,7 +168,7 @@
     const $creditsWidth = Number($parameters["creditsWidth"] || "1");
     const $creditsHeight = Number($parameters["creditsHeight"] || "1");
     const $creditsText = parseNote($creditsTextRaw);
-    const $addExitButton = $parameters["addExitButton"] === "true";
+    const $addExitButton = $parameters["addExitButton"] === "false";
     const $exitCommandName = $parameters["exitCommandName"] || "Exit";
 
 
