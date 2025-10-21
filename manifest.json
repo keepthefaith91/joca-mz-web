@@ -1,18 +1,20 @@
 {
-  "name": "JOCA MZ",
-  "short_name": "JOCA",
-  "lang": "en",
-  "start_url": "/",
-  "display": "standalone",
-  "theme_color": "black",
-  "icons": [
-    {
-      "src": "/icon/add_icons/web/icon192.png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/icon/add_icons/web/icon512.png",
-      "sizes": "512x512"
-    }
-  ]
+    "name": "JOCA MZ",
+    "short_name": "JOCA",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "start_url": "https://jocamz.oathpixel.cc/",
+    "description": "JOCA is an rpg game about a girl going to space and eating tourist food",
+    "orientation": "any",
+    "icons": [
+        {
+          "src": "/icon/add_icons/web/icon192.png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/icon/add_icons/web/icon512.png",
+          "sizes": "512x512"
+        }
+    ]
 }
