@@ -16,5 +16,28 @@
           "src": "/icon/add_icons/web/icon512.png",
           "sizes": "512x512"
         }
+    ],
+    "screenshots" : [
+      {
+        "src": "/screenshots/01.png",
+        "sizes": "620x320",
+        "type": "image/png",
+        "form_factor": "wide",
+        "label": "JOCA"
+      },
+      {
+        "src": "/screenshots/02.png",
+        "sizes": "620x320",
+        "type": "image/png",
+        "form_factor": "wide",
+        "label": "JOCA"
+      },
+      {
+        "src": "/screenshots/03.png",
+        "sizes": "620x320",
+        "type": "image/png",
+        "form_factor": "wide",
+        "label": "JOCA"
+      }
     ]
 }
