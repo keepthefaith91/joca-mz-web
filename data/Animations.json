@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"name":"Jocatac","flashTimings":[],"soundTimings":[{"frame":0,"se":null}],"displayType":0,"effectName":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"speed":100},
+{"id":1,"name":"Jocatac","flashTimings":[],"soundTimings":[{"frame":0,"se":{"name":"Shot2","pan":0,"pitch":100,"volume":90}},{"frame":11,"se":{"name":"Blow4","pan":0,"pitch":100,"volume":90}}],"displayType":0,"effectName":"jocatac","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"speed":100},
 {"id":2,"name":"Stub","flashTimings":[],"soundTimings":[{"frame":0,"se":null}],"displayType":0,"effectName":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"speed":100},
 {"id":3,"name":"kick","flashTimings":[],"soundTimings":[{"frame":0,"se":null}],"displayType":0,"effectName":"","offsetX":0,"offsetY":0,"rotation":{"x":0,"y":0,"z":0},"scale":100,"speed":100},
 {"id":4,"animation1Hue":0,"animation1Name":"Attack1","animation2Hue":0,"animation2Name":"enemytac","frames":[[[109,-176,-120,100,0,0,255,1]],[[109,-160,-96,100,0,0,255,1]],[[109,8,48,100,0,0,255,1],[0,8,48,100,0,0,255,1]],[[108,176,-72,100,0,0,255,1],[1,0,40,100,0,0,255,1]],[[2,0,40,100,0,0,255,1],[108,192,-88,100,0,0,255,1]],[[2,0,40,100,0,0,255,2],[108,200,-104,100,0,0,255,1]],[[-1,0,40,100,0,0,255,2],[108,192,-88,100,0,0,255,1]]],"name":"kick","position":1,"timings":[{"flashColor":[255,255,255,255],"flashDuration":5,"flashScope":0,"frame":2,"se":{"name":"Blow5","pan":0,"pitch":95,"volume":80}}],"flashTimings":[],"soundTimings":[]},
