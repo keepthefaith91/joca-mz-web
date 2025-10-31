@@ -1,4 +1,4 @@
-# Joca MZ
+# JOCA MZ
 An unofficial HTML5 port of wumberbumber's [JOCA](https://wumberbumber.itch.io/joca)
 
 ## Packages
@@ -9,3 +9,5 @@ The Android application uses a fixed release model, where a new version is typic
 ## Building for Android
 ### Prerequisites
 * [Android Studio](https://developer.android.com/studio/)
+
+TBC
