@@ -1,3 +1,7 @@
 # Ignore developer save files
 saves/
 save/
+
+# Ignore patches.txt
+# Used for documenting commits for next Android release
+patches.txt
