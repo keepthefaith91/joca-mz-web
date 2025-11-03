@@ -86,14 +86,16 @@ body {
     z-index: 10;
 }
 #loadingSpinnerImage {
-    margin: 0px;
-    padding: 0px;
-    border-radius: 50%;
-    width: 96px;
-    height: 96px;
-    border: 12px solid rgba(255, 255, 255, 0.25);
-    border-top: 12px solid rgba(255, 255, 255, 1);
-    animation: fadein 2s ease, spin 1.5s linear infinite;
+/*    margin: 0px; */
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+/*    padding: 0px; */
+    width: 48px;
+    height: 48px;
+    background-image: url('../img/system/load.png');
+	animation: fadein 2s ease, spin 1.5s linear infinite;
+/*	z-index: 10; */
 }
 @keyframes fadein {
     0% {
