@@ -8,6 +8,8 @@ The Android application uses a fixed release model, where a new version is typic
 
 ## Building for Android
 ### Prerequisites
-* [Android Studio](https://developer.android.com/studio/)
+- [Android Studio](https://developer.android.com/studio/) ([Installation Guide](https://developer.android.com/studio/install))
+	- Requirements : Android 8.0 SDK Platform, Android SDK Build-Tools, Android SDK Platform-Tools, Android SDK Tools
+- Runtime Client ([Clone](https://github.com/amirisback/mv-android-client.git))
 
-TBC
+
