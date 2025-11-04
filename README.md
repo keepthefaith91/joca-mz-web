@@ -4,7 +4,7 @@ An unofficial HTML5 port of wumberbumber's [JOCA](https://wumberbumber.itch.io/j
 ## Packages
 The [web application](https://jocamz.oathpixel.cc) uses a rolling release model, as its source is always up-to-date with the latest commit on the repository's main branch.
 
-The Android application uses a fixed release model, where a new version is typically introduced after a number of noteworthy commits.
+The Android application uses a fixed release model, where a new version is typically introduced after a number of noteworthy commits. The latest official releases are available [here](https://github.com/keepthefaith91/joca-mz-web/releases). Future Android releases may be migrated and distributed under an opt-in closed testing track via the Google Play Store. Future details regarding this development will be included with the next release.
 
 ## Building for Android
 ### Prerequisites
