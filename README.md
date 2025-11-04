@@ -21,7 +21,7 @@ If you'd like to contribute to the Android project, but do not currently have a 
 4. Open game.rmmzproject, located in the repo's root directory, via RPG MAKER MZ.
 5. Export the files into the aforementioned `assets` folder. (File->Deployment->Android->Change output location (android/app/src/main/assets)->Deploy)
 6. Rename the exported folder from 'joca-mz-web' to 'www'
-	6a. You may delete the `android` subdirectory
-	6b. You may edit build.gradle (Module : app) versionCode & versionName
+	- You may delete the `android` subdirectory
+	- You may edit build.gradle (Module : app) versionCode & versionName
 7. Navigate to the js subdirectory within the exported folder. Then, delete `rmmz_manager.js` & `main.js`. Afterwards, remove the `android` suffix from `rmmz_manager.jsandroid` & `main.jsandroid`.
 9. Build-->Generate APKs
