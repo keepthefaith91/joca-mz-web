@@ -17,19 +17,19 @@
 <resources>
 
     <!-- Theme Colors -->
-    <color name="color_primary">#424242</color>
-    <color name="color_primary_dark">#212121</color>
-    <color name="color_accent">#009688</color>
+    <color name="color_primary">#FFFFFF</color>
+    <color name="color_primary_dark">#FFFFFF</color>
+    <color name="color_accent">#FFFFFF</color>
 
     <!-- Icon Colors -->
     <color name="icon_background">#FFF</color>
 
     <!-- Project Name -->
-    <string name="app_name">RPG Maker MV</string>
+    <string name="app_name">JOCA</string>
 
     <!-- Web Linking -->
     <string name="app_scheme">https</string>
-    <string name="app_host">altimit.systems</string>
+    <string name="app_host">jocamz.oathpixel.cc</string>
 
     <!-- Quit Message -->
     <string-array name="quit_message">
