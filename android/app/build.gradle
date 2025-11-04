@@ -39,7 +39,7 @@ android {
          * Project Identification
          */
         applicationId "cc.oathpixel.jocamz" // Change this to your applicationId.
-        versionCode 7 // Set this to a higher number for game updates.
+        versionCode 8 // Set this to a higher number for game updates.
         versionName "0.9.3" // This is the version that the player sees.
 
         compileSdkVersion ANDROID_SDK_TARGET
